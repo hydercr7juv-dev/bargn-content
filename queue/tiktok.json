@@ -1,6 +1,6 @@
 {
   "batch_date": "2026-08-18",
-  "generated_at": "2026-08-18T07:54:03.763Z",
+  "generated_at": "2026-08-18T14:17:46.061Z",
   "network": "tiktok",
   "items": [
     {
@@ -51,6 +51,16 @@
       "caption": "Fujifilm instax™ Mini 12 Instant Camera wi… — the same price at every shop we could read.\n\nJohn Lewis: £69.99\n\nEvery price above was read from the retailer's own product page on 18 August 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\n#bargn #ukdeals #moneysaving #pricecomparison #shoppinghack",
       "media": {
         "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-06-instax.mp4"
+      }
+    },
+    {
+      "id": "tiktok:2026-08-18:reel-101-airfryer-flex",
+      "item_id": "reel-101-airfryer-flex",
+      "kind": "reel",
+      "slot_hour": 17,
+      "caption": "Ninja Foodi FlexDrawer Dual AF500UK Air Fr… — the same price at every shop we could read.\n\nJohn Lewis: £259\n\nEvery price above was read from the retailer's own product page on 18 August 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.\n\n#bargn #ukdeals #moneysaving #pricecomparison #shoppinghack",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-101-airfryer-flex.mp4"
       }
     }
   ]
