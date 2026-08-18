@@ -1,0 +1,47 @@
+{
+  "batch_date": "2026-08-18",
+  "generated_at": "2026-08-18T07:54:03.763Z",
+  "network": "twitter",
+  "items": [
+    {
+      "id": "twitter:2026-08-18:reel-01-airfryer-max",
+      "item_id": "reel-01-airfryer-max",
+      "kind": "reel",
+      "slot_hour": 8,
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 18 Aug 2026. Always check before you buy.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-01-airfryer-max.mp4"
+      }
+    },
+    {
+      "id": "twitter:2026-08-18:reel-02-airfryer-max",
+      "item_id": "reel-02-airfryer-max",
+      "kind": "reel",
+      "slot_hour": 12,
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 18 Aug 2026. Always check before you buy.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-02-airfryer-max.mp4"
+      }
+    },
+    {
+      "id": "twitter:2026-08-18:reel-04-dyson",
+      "item_id": "reel-04-dyson",
+      "kind": "reel",
+      "slot_hour": 16,
+      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\nPrices read 18 Aug 2026. Always check before you buy.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-04-dyson.mp4"
+      }
+    },
+    {
+      "id": "twitter:2026-08-18:reel-05-dualsense",
+      "item_id": "reel-05-dualsense",
+      "kind": "reel",
+      "slot_hour": 20,
+      "caption": "PlayStation 5 DualSense Controller, HYPERP… — the same price at every shop we could read.\nPrices read 18 Aug 2026. Always check before you buy.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-05-dualsense.mp4"
+      }
+    }
+  ]
+}
