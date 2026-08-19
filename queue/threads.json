@@ -1,0 +1,61 @@
+{
+  "batch_date": "2026-08-19",
+  "generated_at": "2026-08-19T03:48:56.161Z",
+  "network": "threads",
+  "items": [
+    {
+      "id": "threads:2026-08-19:reel-01-airfryer-max",
+      "item_id": "reel-01-airfryer-max",
+      "kind": "reel",
+      "slot_hour": 9,
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\n\nCurrys: £179.99\nArgos: £230\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\nPaste any product link at bargn.net — free.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-01-airfryer-max.mp4"
+      }
+    },
+    {
+      "id": "threads:2026-08-19:tip-01",
+      "item_id": "tip-01",
+      "kind": "tip",
+      "slot_hour": 11,
+      "caption": "Big shops do not move prices together. Whichever was cheapest last month often is not today.\n\nPaste any product link at bargn.net — free.",
+      "media": null
+    },
+    {
+      "id": "threads:2026-08-19:reel-02-airfryer-max",
+      "item_id": "reel-02-airfryer-max",
+      "kind": "reel",
+      "slot_hour": 13,
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\n\nCurrys: £179.99\nArgos: £230\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.\n\nPaste any product link at bargn.net — free.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-02-airfryer-max.mp4"
+      }
+    },
+    {
+      "id": "threads:2026-08-19:tip-02",
+      "item_id": "tip-02",
+      "kind": "tip",
+      "slot_hour": 15,
+      "caption": "Bundles look like deals partly because they are hard to compare. Price the item on its own first.\n\nPaste any product link at bargn.net — free.",
+      "media": null
+    },
+    {
+      "id": "threads:2026-08-19:reel-04-dyson",
+      "item_id": "reel-04-dyson",
+      "kind": "reel",
+      "slot_hour": 17,
+      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £649\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nWould you use this?\n\nPaste any product link at bargn.net — free.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-04-dyson.mp4"
+      }
+    },
+    {
+      "id": "threads:2026-08-19:tip-03",
+      "item_id": "tip-03",
+      "kind": "tip",
+      "slot_hour": 21,
+      "caption": "If a price gap looks too big for the same product, it usually is. Check you are comparing the same model.\n\nPaste any product link at bargn.net — free.",
+      "media": null
+    }
+  ]
+}

@@ -1,60 +1,60 @@
 {
-  "batch_date": "2026-08-18",
-  "generated_at": "2026-08-18T15:28:10.099Z",
+  "batch_date": "2026-08-19",
+  "generated_at": "2026-08-19T03:48:56.160Z",
   "network": "twitter",
   "items": [
     {
-      "id": "twitter:2026-08-18:reel-01-airfryer-max",
+      "id": "twitter:2026-08-19:reel-01-airfryer-max",
       "item_id": "reel-01-airfryer-max",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 18 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-01-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-01-airfryer-max.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-18:tip-01",
+      "id": "twitter:2026-08-19:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 10,
-      "caption": "Big shops do not move prices together. Whichever was cheapest last month often is not today.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Free delivery thresholds quietly change the real price. Compare what you actually pay at checkout.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-18:reel-02-airfryer-max",
+      "id": "twitter:2026-08-19:reel-02-airfryer-max",
       "item_id": "reel-02-airfryer-max",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 18 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-02-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-02-airfryer-max.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-18:tip-02",
+      "id": "twitter:2026-08-19:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 14,
-      "caption": "Bundles look like deals partly because they are hard to compare. Price the item on its own first.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Two shops can sell the same thing under different names. The model code is what matches, not the title.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-18:reel-04-dyson",
+      "id": "twitter:2026-08-19:reel-04-dyson",
       "item_id": "reel-04-dyson",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\nPrices read 18 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-18/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-04-dyson.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-18:tip-03",
+      "id": "twitter:2026-08-19:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 20,
-      "caption": "If a price gap looks too big for the same product, it usually is. Check you are comparing the same model.\n\nPaste any product link at bargn.net — free.",
+      "caption": "A sale price and an everyday price can be the same number. The label is not the evidence.\n\nPaste any product link at bargn.net — free.",
       "media": null
     }
   ]
