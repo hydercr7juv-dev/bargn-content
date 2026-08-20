@@ -1,66 +1,66 @@
 {
-  "batch_date": "2026-08-19",
-  "generated_at": "2026-08-19T03:48:56.160Z",
+  "batch_date": "2026-08-20",
+  "generated_at": "2026-08-20T03:45:37.307Z",
   "network": "instagram",
   "items": [
     {
-      "id": "instagram:2026-08-19:reel-01-airfryer-max",
+      "id": "instagram:2026-08-20:reel-01-airfryer-max",
       "item_id": "reel-01-airfryer-max",
       "kind": "reel",
       "slot_hour": 6,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\n\nCurrys: £179.99\nArgos: £230\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nComment SHOP.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\n\nCurrys: £179.99\nArgos: £239.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nComment SHOP.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-01-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-01-airfryer-max.mp4"
       }
     },
     {
-      "id": "instagram:2026-08-19:reel-02-airfryer-max",
+      "id": "instagram:2026-08-20:reel-02-airfryer-max",
       "item_id": "reel-02-airfryer-max",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\n\nCurrys: £179.99\nArgos: £230\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\n\nCurrys: £179.99\nArgos: £239.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-02-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-02-airfryer-max.mp4"
       }
     },
     {
-      "id": "instagram:2026-08-19:reel-04-dyson",
-      "item_id": "reel-04-dyson",
+      "id": "instagram:2026-08-20:reel-03-lego-bonsai",
+      "item_id": "reel-03-lego-bonsai",
       "kind": "reel",
       "slot_hour": 10,
-      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £649\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nWould you use this?",
+      "caption": "LEGO Botanicals 10348 Japanese Red Maple B… — £13.75 between shops when we checked.\n\nCurrys: £41.24\nJohn Lewis: £54.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-03-lego-bonsai.mp4"
       }
     },
     {
-      "id": "instagram:2026-08-19:reel-05-dualsense",
-      "item_id": "reel-05-dualsense",
+      "id": "instagram:2026-08-20:reel-04-dyson",
+      "item_id": "reel-04-dyson",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "PlayStation 5 DualSense Controller, HYPERP… — the same price at every shop we could read.\n\nJohn Lewis: £69.99\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.",
+      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £649\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nWould you use this?",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-05-dualsense.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-04-dyson.mp4"
       }
     },
     {
-      "id": "instagram:2026-08-19:reel-06-instax",
-      "item_id": "reel-06-instax",
+      "id": "instagram:2026-08-20:reel-05-dualsense",
+      "item_id": "reel-05-dualsense",
       "kind": "reel",
       "slot_hour": 14,
-      "caption": "Fujifilm instax™ Mini 12 Instant Camera wi… — the same price at every shop we could read.\n\nJohn Lewis: £69.99\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nComment SHOP.",
+      "caption": "PlayStation 5 DualSense Controller, HYPERP… — the same price at every shop we could read.\n\nJohn Lewis: £69.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-06-instax.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-05-dualsense.mp4"
       }
     },
     {
-      "id": "instagram:2026-08-19:reel-101-airfryer-flex",
-      "item_id": "reel-101-airfryer-flex",
+      "id": "instagram:2026-08-20:reel-06-instax",
+      "item_id": "reel-06-instax",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "Ninja Foodi FlexDrawer Dual AF500UK Air Fr… — the same price at every shop we could read.\n\nJohn Lewis: £199.99\n\nEvery price above was read from the retailer's own product page on 19 August 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.",
+      "caption": "Fujifilm instax™ Mini 12 Instant Camera wi… — the same price at every shop we could read.\n\nJohn Lewis: £69.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nComment SHOP.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-101-airfryer-flex.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-06-instax.mp4"
       }
     }
   ]

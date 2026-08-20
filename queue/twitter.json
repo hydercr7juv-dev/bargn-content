@@ -1,60 +1,60 @@
 {
-  "batch_date": "2026-08-19",
-  "generated_at": "2026-08-19T03:48:56.160Z",
+  "batch_date": "2026-08-20",
+  "generated_at": "2026-08-20T03:45:37.307Z",
   "network": "twitter",
   "items": [
     {
-      "id": "twitter:2026-08-19:reel-01-airfryer-max",
+      "id": "twitter:2026-08-20:reel-01-airfryer-max",
       "item_id": "reel-01-airfryer-max",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\nCurrys £179.99 · Argos £239.99\nPrices read 20 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-01-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-01-airfryer-max.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-19:tip-01",
+      "id": "twitter:2026-08-20:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 10,
-      "caption": "Free delivery thresholds quietly change the real price. Compare what you actually pay at checkout.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Nobody has time to open eight tabs before buying a kettle. That is the whole problem.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-19:reel-02-airfryer-max",
+      "id": "twitter:2026-08-20:reel-02-airfryer-max",
       "item_id": "reel-02-airfryer-max",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £50.01 between shops when we checked.\nCurrys £179.99 · Argos £230\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\nCurrys £179.99 · Argos £239.99\nPrices read 20 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-02-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-02-airfryer-max.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-19:tip-02",
+      "id": "twitter:2026-08-20:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 14,
-      "caption": "Two shops can sell the same thing under different names. The model code is what matches, not the title.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Most people check one shop and hope. Hoping is not a price comparison.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-19:reel-04-dyson",
-      "item_id": "reel-04-dyson",
+      "id": "twitter:2026-08-20:reel-03-lego-bonsai",
+      "item_id": "reel-03-lego-bonsai",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "Dyson V15 Detect Absolute Vacuum Cleaner — the same price at every shop we could read.\nPrices read 19 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "LEGO Botanicals 10348 Japanese Red Maple B… — £13.75 between shops when we checked.\nCurrys £41.24 · John Lewis £54.99\nPrices read 20 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-19/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-03-lego-bonsai.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-19:tip-03",
+      "id": "twitter:2026-08-20:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 20,
-      "caption": "A sale price and an everyday price can be the same number. The label is not the evidence.\n\nPaste any product link at bargn.net — free.",
+      "caption": "The best time to check another shop is before you buy, not after the delivery email.\n\nPaste any product link at bargn.net — free.",
       "media": null
     }
   ]
