@@ -1,20 +1,20 @@
 {
-  "batch_date": "2026-08-20",
-  "generated_at": "2026-08-20T03:45:37.308Z",
+  "batch_date": "2026-08-26",
+  "generated_at": "2026-08-26T03:57:00.558Z",
   "network": "threads",
   "items": [
     {
-      "id": "threads:2026-08-20:reel-01-airfryer-max",
-      "item_id": "reel-01-airfryer-max",
+      "id": "threads:2026-08-26:reel-04-dyson",
+      "item_id": "reel-04-dyson",
       "kind": "reel",
       "slot_hour": 9,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\n\nCurrys: £179.99\nArgos: £239.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £599.99\n\nEvery price above was read from the retailer's own product page on 26 August 2026. Prices change — always check before you buy.\n\nWould you use this?\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-01-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-26/reel-04-dyson.mp4"
       }
     },
     {
-      "id": "threads:2026-08-20:tip-01",
+      "id": "threads:2026-08-26:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 11,
@@ -22,17 +22,17 @@
       "media": null
     },
     {
-      "id": "threads:2026-08-20:reel-02-airfryer-max",
-      "item_id": "reel-02-airfryer-max",
+      "id": "threads:2026-08-26:reel-05-dualsense",
+      "item_id": "reel-05-dualsense",
       "kind": "reel",
       "slot_hour": 13,
-      "caption": "NINJA Foodi MAX Dual Zone AF400UKWH Air Fr… — £60 between shops when we checked.\n\nCurrys: £179.99\nArgos: £239.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.\n\nPaste any product link at bargn.net — free.",
+      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\n\nJohn Lewis: £59.99\n\nEvery price above was read from the retailer's own product page on 26 August 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-02-airfryer-max.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-26/reel-05-dualsense.mp4"
       }
     },
     {
-      "id": "threads:2026-08-20:tip-02",
+      "id": "threads:2026-08-26:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 15,
@@ -40,17 +40,17 @@
       "media": null
     },
     {
-      "id": "threads:2026-08-20:reel-03-lego-bonsai",
-      "item_id": "reel-03-lego-bonsai",
+      "id": "threads:2026-08-26:reel-06-instax",
+      "item_id": "reel-06-instax",
       "kind": "reel",
       "slot_hour": 17,
-      "caption": "LEGO Botanicals 10348 Japanese Red Maple B… — £13.75 between shops when we checked.\n\nCurrys: £41.24\nJohn Lewis: £54.99\n\nEvery price above was read from the retailer's own product page on 20 August 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.\n\nPaste any product link at bargn.net — free.",
+      "caption": "instax Mini 12 Instant Camera - Blue — the same price at every shop we could read.\n\nArgos: £69.99\n\nEvery price above was read from the retailer's own product page on 26 August 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-20/reel-03-lego-bonsai.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-26/reel-06-instax.mp4"
       }
     },
     {
-      "id": "threads:2026-08-20:tip-03",
+      "id": "threads:2026-08-26:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 21,
