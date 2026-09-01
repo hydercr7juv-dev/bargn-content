@@ -1,60 +1,60 @@
 {
-  "batch_date": "2026-08-31",
-  "generated_at": "2026-08-31T09:23:00.092Z",
+  "batch_date": "2026-09-01",
+  "generated_at": "2026-09-01T08:28:47.460Z",
   "network": "twitter",
   "items": [
     {
-      "id": "twitter:2026-08-31:reel-04-dyson",
+      "id": "twitter:2026-09-01:reel-04-dyson",
       "item_id": "reel-04-dyson",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\nPrices read 31 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\nPrices read 1 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-31/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-01/reel-04-dyson.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-31:tip-01",
+      "id": "twitter:2026-09-01:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 10,
-      "caption": "Free delivery thresholds quietly change the real price. Compare what you actually pay at checkout.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Nobody has time to open eight tabs before buying a kettle. That is the whole problem.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-31:reel-05-dualsense",
+      "id": "twitter:2026-09-01:reel-05-dualsense",
       "item_id": "reel-05-dualsense",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\nPrices read 31 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\nPrices read 1 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-31/reel-05-dualsense.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-01/reel-05-dualsense.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-31:tip-02",
+      "id": "twitter:2026-09-01:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 14,
-      "caption": "Two shops can sell the same thing under different names. The model code is what matches, not the title.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Most people check one shop and hope. Hoping is not a price comparison.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-08-31:reel-06-instax",
+      "id": "twitter:2026-09-01:reel-06-instax",
       "item_id": "reel-06-instax",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "instax Mini 12 Instant Camera - Pink — the same price at every shop we could read.\nArgos £69.99 · Currys £69.99\nPrices read 31 Aug 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "instax Mini 12 Instant Camera - Pink — the same price at every shop we could read.\nArgos £69.99 · Currys £69.99\nPrices read 1 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-08-31/reel-06-instax.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-01/reel-06-instax.mp4"
       }
     },
     {
-      "id": "twitter:2026-08-31:tip-03",
+      "id": "twitter:2026-09-01:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 20,
-      "caption": "A sale price and an everyday price can be the same number. The label is not the evidence.\n\nPaste any product link at bargn.net — free.",
+      "caption": "The best time to check another shop is before you buy, not after the delivery email.\n\nPaste any product link at bargn.net — free.",
       "media": null
     }
   ]
