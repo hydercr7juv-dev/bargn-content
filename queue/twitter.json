@@ -1,60 +1,60 @@
 {
-  "batch_date": "2026-09-03",
-  "generated_at": "2026-09-03T07:50:12.704Z",
+  "batch_date": "2026-09-04",
+  "generated_at": "2026-09-04T07:59:14.633Z",
   "network": "twitter",
   "items": [
     {
-      "id": "twitter:2026-09-03:reel-04-dyson",
-      "item_id": "reel-04-dyson",
+      "id": "twitter:2026-09-04:reel-01-oralb",
+      "item_id": "reel-01-oralb",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\nPrices read 3 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 4 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-03/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-04/reel-01-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-03:tip-01",
+      "id": "twitter:2026-09-04:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 10,
-      "caption": "Big shops do not move prices together. Whichever was cheapest last month often is not today.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Free delivery thresholds quietly change the real price. Compare what you actually pay at checkout.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-09-03:reel-05-dualsense",
-      "item_id": "reel-05-dualsense",
+      "id": "twitter:2026-09-04:reel-02-oralb",
+      "item_id": "reel-02-oralb",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\nPrices read 3 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 4 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-03/reel-05-dualsense.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-04/reel-02-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-03:tip-02",
+      "id": "twitter:2026-09-04:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 14,
-      "caption": "Bundles look like deals partly because they are hard to compare. Price the item on its own first.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Two shops can sell the same thing under different names. The model code is what matches, not the title.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "twitter:2026-09-03:reel-06-instax",
-      "item_id": "reel-06-instax",
+      "id": "twitter:2026-09-04:reel-03-oralb",
+      "item_id": "reel-03-oralb",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "instax Mini 12 Instant Camera - Pink — the same price at every shop we could read.\nArgos £69.99 · Currys £69.99\nPrices read 3 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 4 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-03/reel-06-instax.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-04/reel-03-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-03:tip-03",
+      "id": "twitter:2026-09-04:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 20,
-      "caption": "If a price gap looks too big for the same product, it usually is. Check you are comparing the same model.\n\nPaste any product link at bargn.net — free.",
+      "caption": "A sale price and an everyday price can be the same number. The label is not the evidence.\n\nPaste any product link at bargn.net — free.",
       "media": null
     }
   ]
