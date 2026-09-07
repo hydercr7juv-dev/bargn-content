@@ -1,60 +1,60 @@
 {
-  "batch_date": "2026-09-06",
-  "generated_at": "2026-09-06T07:45:25.404Z",
+  "batch_date": "2026-09-07",
+  "generated_at": "2026-09-07T08:06:34.544Z",
   "network": "threads",
   "items": [
     {
-      "id": "threads:2026-09-06:reel-04-dyson",
-      "item_id": "reel-04-dyson",
+      "id": "threads:2026-09-07:reel-01-oralb",
+      "item_id": "reel-01-oralb",
       "kind": "reel",
       "slot_hour": 9,
-      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £599.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nWould you use this?\n\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-01-oralb.mp4"
       }
     },
     {
-      "id": "threads:2026-09-06:tip-01",
+      "id": "threads:2026-09-07:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 11,
-      "caption": "Big shops do not move prices together. Whichever was cheapest last month often is not today.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Nobody has time to open eight tabs before buying a kettle. That is the whole problem.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "threads:2026-09-06:reel-05-dualsense",
-      "item_id": "reel-05-dualsense",
+      "id": "threads:2026-09-07:reel-02-oralb",
+      "item_id": "reel-02-oralb",
       "kind": "reel",
       "slot_hour": 13,
-      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\n\nJohn Lewis: £59.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-05-dualsense.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-02-oralb.mp4"
       }
     },
     {
-      "id": "threads:2026-09-06:tip-02",
+      "id": "threads:2026-09-07:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 15,
-      "caption": "Bundles look like deals partly because they are hard to compare. Price the item on its own first.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Most people check one shop and hope. Hoping is not a price comparison.\n\nPaste any product link at bargn.net — free.",
       "media": null
     },
     {
-      "id": "threads:2026-09-06:reel-06-xm5",
-      "item_id": "reel-06-xm5",
+      "id": "threads:2026-09-07:reel-03-oralb",
+      "item_id": "reel-03-oralb",
       "kind": "reel",
       "slot_hour": 17,
-      "caption": "Sony WH-1000XM5 High Resolution Audio Over… — the same price at every shop we could read.\n\nJohn Lewis: £229.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nComment SHOP.\n\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.\n\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-06-xm5.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-03-oralb.mp4"
       }
     },
     {
-      "id": "threads:2026-09-06:tip-03",
+      "id": "threads:2026-09-07:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 21,
-      "caption": "If a price gap looks too big for the same product, it usually is. Check you are comparing the same model.\n\nPaste any product link at bargn.net — free.",
+      "caption": "The best time to check another shop is before you buy, not after the delivery email.\n\nPaste any product link at bargn.net — free.",
       "media": null
     }
   ]

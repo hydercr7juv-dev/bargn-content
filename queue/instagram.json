@@ -1,56 +1,66 @@
 {
-  "batch_date": "2026-09-06",
-  "generated_at": "2026-09-06T07:45:25.403Z",
+  "batch_date": "2026-09-07",
+  "generated_at": "2026-09-07T08:06:34.543Z",
   "network": "instagram",
   "items": [
     {
-      "id": "instagram:2026-09-06:reel-04-dyson",
-      "item_id": "reel-04-dyson",
+      "id": "instagram:2026-09-07:reel-01-oralb",
+      "item_id": "reel-01-oralb",
       "kind": "reel",
       "slot_hour": 6,
-      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £599.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nWould you use this?",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nComment SHOP.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-04-dyson.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-01-oralb.mp4"
       }
     },
     {
-      "id": "instagram:2026-09-06:reel-05-dualsense",
-      "item_id": "reel-05-dualsense",
+      "id": "instagram:2026-09-07:reel-02-oralb",
+      "item_id": "reel-02-oralb",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\n\nJohn Lewis: £59.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nTry Bargn — link in bio.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-05-dualsense.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-02-oralb.mp4"
       }
     },
     {
-      "id": "instagram:2026-09-06:reel-06-xm5",
-      "item_id": "reel-06-xm5",
+      "id": "instagram:2026-09-07:reel-03-oralb",
+      "item_id": "reel-03-oralb",
       "kind": "reel",
       "slot_hour": 10,
-      "caption": "Sony WH-1000XM5 High Resolution Audio Over… — the same price at every shop we could read.\n\nJohn Lewis: £229.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nComment SHOP.",
+      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\n\nArgos: £160\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-06-xm5.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-03-oralb.mp4"
       }
     },
     {
-      "id": "instagram:2026-09-06:reel-101-lego-bonsai",
-      "item_id": "reel-101-lego-bonsai",
+      "id": "instagram:2026-09-07:reel-06-xm5",
+      "item_id": "reel-06-xm5",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "LEGO Icons 10281 Bonsai Tree — the same price at every shop we could read.\n\nJohn Lewis: £33.99\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.",
+      "caption": "SONY WH-1000XM5 Headphones — the same price at every shop we could read.\n\nCurrys: £229\nJohn Lewis: £229.99\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nComment SHOP.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-101-lego-bonsai.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-06-xm5.mp4"
       }
     },
     {
-      "id": "instagram:2026-09-06:reel-102-oralb",
-      "item_id": "reel-102-oralb",
+      "id": "instagram:2026-09-07:reel-04-dyson",
+      "item_id": "reel-04-dyson",
       "kind": "reel",
       "slot_hour": 14,
-      "caption": "Oral-B iO3 Electric Toothbrush — the same price at every shop we could read.\n\nJohn Lewis: £190\n\nEvery price above was read from the retailer's own product page on 6 September 2026. Prices change — always check before you buy.\n\nCheck Bargn before you buy.",
+      "caption": "Dyson V15s Detect Submarine Vacuum Cleaner — the same price at every shop we could read.\n\nJohn Lewis: £599.99\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nWould you use this?",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-06/reel-102-oralb.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-04-dyson.mp4"
+      }
+    },
+    {
+      "id": "instagram:2026-09-07:reel-05-dualsense",
+      "item_id": "reel-05-dualsense",
+      "kind": "reel",
+      "slot_hour": 16,
+      "caption": "PlayStation 5 DualSense Controller — the same price at every shop we could read.\n\nJohn Lewis: £59.99\n\nEvery price above was read from the retailer's own product page on 7 September 2026. Prices change — always check before you buy.\n\nSend this to someone who shops online.",
+      "media": {
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-07/reel-05-dualsense.mp4"
       }
     }
   ]
