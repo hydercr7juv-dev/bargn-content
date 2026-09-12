@@ -1,20 +1,20 @@
 {
-  "batch_date": "2026-09-08",
-  "generated_at": "2026-09-08T07:59:28.187Z",
+  "batch_date": "2026-09-12",
+  "generated_at": "2026-09-12T08:03:43.612Z",
   "network": "twitter",
   "items": [
     {
-      "id": "twitter:2026-09-08:reel-01-oralb",
+      "id": "twitter:2026-09-12:reel-01-oralb",
       "item_id": "reel-01-oralb",
       "kind": "reel",
       "slot_hour": 8,
-      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 8 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO 3 Ultimate Clean Electric Toothb… — £64 between shops when we checked.\nArgos £64 · Argos £128\nPrices read 12 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-08/reel-01-oralb.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-12/reel-01-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-08:tip-01",
+      "id": "twitter:2026-09-12:tip-01",
       "item_id": "tip-01",
       "kind": "tip",
       "slot_hour": 10,
@@ -22,17 +22,17 @@
       "media": null
     },
     {
-      "id": "twitter:2026-09-08:reel-02-oralb",
+      "id": "twitter:2026-09-12:reel-02-oralb",
       "item_id": "reel-02-oralb",
       "kind": "reel",
       "slot_hour": 12,
-      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 8 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO 3 Ultimate Clean Electric Toothb… — £64 between shops when we checked.\nArgos £64 · Argos £128\nPrices read 12 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-08/reel-02-oralb.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-12/reel-02-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-08:tip-02",
+      "id": "twitter:2026-09-12:tip-02",
       "item_id": "tip-02",
       "kind": "tip",
       "slot_hour": 14,
@@ -40,17 +40,17 @@
       "media": null
     },
     {
-      "id": "twitter:2026-09-08:reel-03-oralb",
+      "id": "twitter:2026-09-12:reel-03-oralb",
       "item_id": "reel-03-oralb",
       "kind": "reel",
       "slot_hour": 16,
-      "caption": "Oral-B iO3 Electric Toothbrush - Pink — £30 between shops when we checked.\nArgos £160 · John Lewis £190\nPrices read 8 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
+      "caption": "Oral-B iO 3 Ultimate Clean Electric Toothb… — £64 between shops when we checked.\nArgos £64 · Argos £128\nPrices read 12 Sept 2026. Always check before you buy.\nPaste any product link at bargn.net — free.",
       "media": {
-        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-08/reel-03-oralb.mp4"
+        "video_url": "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-09-12/reel-03-oralb.mp4"
       }
     },
     {
-      "id": "twitter:2026-09-08:tip-03",
+      "id": "twitter:2026-09-12:tip-03",
       "item_id": "tip-03",
       "kind": "tip",
       "slot_hour": 20,
