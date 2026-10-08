@@ -1,84 +1,81 @@
 {
-  "batch_date": "2026-10-07",
-  "generated_at": "2026-10-07T09:25:32.463Z",
+  "batch_date": "2026-10-08",
+  "generated_at": "2026-10-08T09:39:05.591Z",
   "network": "instagram",
   "items": [
     {
-      "id": "instagram:2026-10-07:carousel-01-gap",
-      "item_id": "carousel-01-gap",
-      "kind": "carousel",
-      "slot_hour": 9,
-      "caption": "£12.99 apart, same PS5 DualSense Controller.\nCurrys — £47\nJohn Lewis — £59.99\nPrices read from the retailers' own product pages on 7 October 2026. Prices change — always check before you buy.\nComment SHOP.\n#bargn #ukdeals #moneysaving #ukshopping #pricecomparison #shoppingtips",
-      "media": {
-        "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-01-gap-01.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-01-gap-02.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-01-gap-03.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-01-gap-04.png"
-        ]
-      }
-    },
-    {
-      "id": "instagram:2026-10-07:carousel-02-checked",
+      "id": "instagram:2026-10-08:carousel-02-checked",
       "item_id": "carousel-02-checked",
       "kind": "carousel",
-      "slot_hour": 12,
-      "caption": "What Bargn found today (7 October 2026):\nPS5 DualSense Controller — £12.99 cheaper at Currys\nSony WH-1000XM5 — nothing cheaper found, £199\nDyson V15 Detect — nothing cheaper found, £599.99\nLEGO Icons Bonsai Tree — nothing cheaper found, £33.99\nOral-B iO Series — nothing cheaper found, £65\nBoth answers matter. A tool that only ever finds a discount isn't checking.\nEvery price read from the retailer's own product page on 7 October 2026. Prices change — always check before you buy.\nTry Bargn — link in bio.\n#bargn #ukdeals #moneysaving #ukshopping #pricecomparison",
+      "slot_hour": 9,
+      "caption": "What Bargn found today (8 October 2026):\nSony WH-1000XM5 — nothing cheaper found, £199\nDyson V15 Detect — nothing cheaper found, £599.99\nPS5 DualSense Controller — nothing cheaper found, £59.99\nLEGO Icons Bonsai Tree — nothing cheaper found, £33.98\nBoth answers matter. A tool that only ever finds a discount isn't checking.\nEvery price read from the retailer's own product page on 8 October 2026. Prices change — always check before you buy.\nTry Bargn — link in bio.\n#bargn #ukdeals #moneysaving #ukshopping #pricecomparison",
       "media": {
         "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-02-checked-01.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-02-checked-02.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-02-checked-03.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-02-checked-04.png",
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/carousel-02-checked-05.png"
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/carousel-02-checked-01.png",
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/carousel-02-checked-02.png",
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/carousel-02-checked-03.png",
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/carousel-02-checked-04.png",
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/carousel-02-checked-05.png"
         ]
       }
     },
     {
-      "id": "instagram:2026-10-07:tip-01",
+      "id": "instagram:2026-10-08:tip-01",
       "item_id": "tip-01",
       "kind": "carousel",
-      "slot_hour": 14,
-      "caption": "A price that ends in 99 is a rounding decision somebody made about your attention.\n\nOn a laptop? The Bargn extension checks the page you are already on — no pasting. Free on Firefox now, other browsers shortly. Link in bio.",
+      "slot_hour": 12,
+      "caption": "Delivery is part of the price. So is the return postage if it does not fit.\n\nPaste any product link at bargn.net — free.",
       "media": {
         "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/tip-01-01.png"
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/tip-01-01.png"
         ]
       }
     },
     {
-      "id": "instagram:2026-10-07:tip-02",
+      "id": "instagram:2026-10-08:tip-02",
       "item_id": "tip-02",
       "kind": "carousel",
-      "slot_hour": 17,
-      "caption": "Trade-in values are quoted at their best case. Read which condition that assumes.\n\nPaste any product link at bargn.net — free.",
+      "slot_hour": 14,
+      "caption": "Shops rarely discount the model everyone wants. They discount the one beside it.\n\nPaste any product link at bargn.net — free.",
       "media": {
         "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/tip-02-01.png"
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/tip-02-01.png"
         ]
       }
     },
     {
-      "id": "instagram:2026-10-07:tip-03",
+      "id": "instagram:2026-10-08:tip-03",
       "item_id": "tip-03",
       "kind": "carousel",
-      "slot_hour": 19,
-      "caption": "The listing photo is the manufacturer's. The price is not.\n\nPaste any product link at bargn.net — free.",
+      "slot_hour": 17,
+      "caption": "The same appliance sells under three brand names in Britain. The spec sheet gives it away.\n\nOn a laptop? The Bargn extension checks the page you are already on — no pasting. Free on Firefox now, other browsers shortly. Link in bio.",
       "media": {
         "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/tip-03-01.png"
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/tip-03-01.png"
         ]
       }
     },
     {
-      "id": "instagram:2026-10-07:tip-04",
+      "id": "instagram:2026-10-08:tip-04",
       "item_id": "tip-04",
       "kind": "carousel",
-      "slot_hour": 21,
-      "caption": "Buying the accessory from the same shop is convenient. It is seldom cheap.\n\nOn a laptop? The Bargn extension checks the page you are already on — no pasting. Free on Firefox now, other browsers shortly. Link in bio.",
+      "slot_hour": 19,
+      "caption": "Buying on payday is a habit, not a strategy. Prices do not know what day it is.\n\nPaste any product link at bargn.net — free.",
       "media": {
         "image_urls": [
-          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-07/tip-04-01.png"
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/tip-04-01.png"
+        ]
+      }
+    },
+    {
+      "id": "instagram:2026-10-08:tip-05",
+      "item_id": "tip-05",
+      "kind": "carousel",
+      "slot_hour": 21,
+      "caption": "A voucher code that fails at checkout has still done its job — it kept you on the page.\n\nPaste any product link at bargn.net — free.",
+      "media": {
+        "image_urls": [
+          "https://vqotqhzvbgqkoqvluzjk.supabase.co/storage/v1/object/public/reels/2026-10-08/tip-05-01.png"
         ]
       }
     }
